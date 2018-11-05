@@ -1,0 +1,8 @@
+Smart Fridges
+
+What are they?
+
+The internet refrigerator, colloquially known as a smart fridge, is a fridge
+that tracks the amounts of products it contains and knows when to stock up on
+more of an item. Smart fridges have been around, at least as an idea, since
+the late 90s, and was first launched into reality in June 2000.
